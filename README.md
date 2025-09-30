@@ -1,4 +1,4 @@
-# Happy — Voice Assistant
+# Happy — AI Voice Assistant
 
 Happy is a personal AI voice assistant for Windows, built with Python. It listens for a wakeword, recognizes voice commands, speaks responses, and can interact with Google Gemini through Chrome automation. This repository contains the code, setup instructions, and supporting files to get Happy running on your machine.
 
